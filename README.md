@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on front-end
-- 🌱 I’m currently learning NodeJS; ReactJS; HTML; and CSS.
+- 🌱 I’m currently learning Java(JUnit, JPA, REST, JavaFX); PHP; NodeJS; ReactJS; HTML; and CSS.
 - 📫 How to reach me Linkedin: https://www.linkedin.com/in/alexandre-paiva/ and email: alex.rcp@gmail.com 
 - 😄 Pronouns: he/his
 <br />
